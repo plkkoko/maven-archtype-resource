@@ -2,6 +2,7 @@
 maven资源&《Maven实战》
 
 TO READ 《Maven实战完整版》
+
 - [X] 第01章 Maven简介
 - [X] 第02章 Maven安装和配置
 - [X] 第03章 Maven使用入门
@@ -20,7 +21,8 @@ TO READ 《Maven实战完整版》
 - [ ] 第16章 m2eclipse
 - [ ] 第17章 编写Maven插件
 - [ ] 第18章 Archetype
------------------
+
+-------------
 
 - 显式大于隐喻
 - 约定大于配置
