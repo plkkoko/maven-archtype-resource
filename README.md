@@ -1,7 +1,7 @@
 # maven-archtype-resource
 maven资源&《Maven实战》
 
-TO READ 《Maven实战完整版》
+TO-READ 《Maven实战完整版》
 
 - [X] 第01章 Maven简介
 - [X] 第02章 Maven安装和配置
